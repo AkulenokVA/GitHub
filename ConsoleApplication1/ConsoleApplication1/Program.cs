@@ -10,8 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            int a = 42;
-            int b = 119;
+            int a = 24;
+            int b = 911;
             int c = a + b;
             Console.WriteLine(c);
             Console.ReadKey();
